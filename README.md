@@ -1,22 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm SAYANTAN BHATTACHARYA</h1>
-
-<h3 align="center">An Aspiring Data Analyst from India</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sayantanapd1234-afk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-- 📫 How to reach me: **sayantan.apd1234@gmail.com**
-- ⚡ Fun fact: **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sayantan-bhattacharya-8798ab208/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
